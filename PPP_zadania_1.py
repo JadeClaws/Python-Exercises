@@ -1,5 +1,5 @@
 def zad1():
-    print("downolny napis")
+    print("dowolny napis")
     return
 
 def zad2():
