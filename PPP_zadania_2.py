@@ -109,35 +109,35 @@ def zad8():
 # WYKONANIE
 
 # 1.Napisz program wyswietlajacy 10 razy dowolny napis.
-#zad1()
+zad1()
 
 # 2.Napisz program wyświetlający liczby od 0 do 1000 co 50 za pomocą jednej 
 # pętli for.
-#zad2()
+zad2()
 
 # 3.Napisz program pobierający liczbę od użytkownika i sprawdzający, czy jest 
 # ona większa od 5. Program powinien wyświetlić odpowiedni komunikat.
-#zad3()
+zad3()
 
 # 4.Napisz program wyświetlający nazwę dnia tygodnia zależnie od liczby 
 # wprowadzonej przez użytkownika (1 – poniedziałek ,…, 7 – niedziela, 
 # inna – „nie ma takiego dnia”).
-#zad4()
+zad4()
 
 # 5.Napisz program pobierający od użytkownika liczbę n i wyświetlający wartość 
 # sumy 1 + 2 + 3 + … + n.
-#zad5()
+zad5()
 
 # 6.Napisz program pobierający liczby od użytkownika. Jeżeli zostanie podana 
 # liczba 4 to program ma zakończyć swoje działanie.
-#zad6()
+zad6()
 
 # 7.Napisz program pobierający liczby od użytkownika tak długo, aż zostanie 
 # podana liczba 0. Po odczytaniu 0 wyświetl sumę podanych przez użytkownika 
 # liczb.
-#zad7()
+zad7()
 
 # 8.Napisz program pobierający napis oraz znak od użytkownika i sprawdzający, 
 # czy w napisie znajduje się podany znak. Jeżeli tak – wyświetl indeksy 
 # występowania, jeżeli nie – stosowny komunikat.
-#zad8()
+zad8()
