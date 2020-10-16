@@ -55,13 +55,13 @@ def zad6():
 # WYKONANIE:
 
 # 1.Wyswietl dowolny napis
-#zad1()
+zad1()
 
 # 2.Pobierz od uzytkownika imie i wyswietl "Czesc <imie>"
-#zad2()
+zad2()
 
 # 3.Uzyj metody format dla polecenia z zadania 2
-#zad3()
+zad3()
 
 # 4.Stwórz zmienną zawierającą napis " To jest tekst " (spacje zostawiamy!) i
 # zinterpretuj wyniki wykonania zadanych poleceń:
@@ -70,8 +70,8 @@ zad4()
 # 5.Napisz program inicjalizujacy liste napisow i:
 # a) wyswietl jej drugi element
 # b) sprawdz dzialanie polecen: join(), append(), remove()
-#zad5()
+zad5()
 
 # 6.Utworz 3 zmienne, zainicjalizuj wartosciami "abcd", 2, 2.3 i sprawdz wynik
 # dzialania type() i type(str())
-#zad6()
+zad6()
