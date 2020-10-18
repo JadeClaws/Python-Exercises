@@ -209,9 +209,10 @@ def zad7(mode = ""):
 # 2; 10; 1024
 #zad6()
 
-# 7.Napisz program wyszukujący w pliku Dane1.txt tekstowym liczbę:
+# 7.Napisz program wyszukujący w pliku "data7.txt" tekstowym liczbę:
 #a) spacji,
 #b) zadanego ciągu znaków,
 #c) znaków przejść do następnej linii.
-# 7.Write a program that find given substring, space or newline sign in file
+# 7.Write a program that find given substring, space or newline sign in a file
+# "data7.txt"
 zad7("b")
